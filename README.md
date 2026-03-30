@@ -25,3 +25,7 @@ Dynamic question generation
 Answer evaluation system
 Clean and simple UI
 Real-time API integration
+
+## 📷 Screenshots
+
+![App Screenshot](output.jpeg)
